@@ -6,5 +6,11 @@ Loosely inspired by the Roadmap's page: [https://egg2.wustl.edu/roadmap/web_port
 * Figures
 * Resources
 * Articles
+* Guillaume's BioRxactive channel (?)
 
-(Potentially) include links to IHEC Data Portal, EpiRR, Guillaume's BioRxactive channel, sFTP/FTP URL.  Essentially, reference other "raw" data sources.
+(Potentially) include links to other "raw" data sources:
+* IHEC Data Portal's S3 compatible data download 
+* EpiRR
+* sFTP/FTP URL (or the HTTP file server).
+
+Mention that raw data is in EGA, DDBJ, & that American archive (raw_data_url sources).
