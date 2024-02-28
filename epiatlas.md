@@ -6,3 +6,5 @@ Loosely inspired by the Roadmap's page: [https://egg2.wustl.edu/roadmap/web_port
 * Figures
 * Resources
 * Articles
+
+(Potentially) include links to IHEC Data Portal, EpiRR, Guillaume's BioRxactive channel, sFTP/FTP URL.  Essentially, reference other "raw" data sources.
