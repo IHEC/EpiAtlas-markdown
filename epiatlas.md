@@ -8,10 +8,8 @@ Loosely inspired by the Roadmap's page: [https://egg2.wustl.edu/roadmap/web_port
 * Articles
 * Guillaume's BioRxactive channel (?)
 
-(Potentially) include links to other "raw" data sources:
-* IHEC Data Portal's S3 compatible data download (?)
-* EpiRR
-* sFTP/FTP URL (and the HTTP file server).
-* rsync node
+Other data sources:
+* Complete processed data through rsync/http/ftp URL: [ihec.sd4h.ca](ihec.sd4h.ca)
+* EpiRR (metadata): [https://www.ebi.ac.uk/epirr/(https://www.ebi.ac.uk/epirr/)
 
-Mention that raw data is in EGA, DDBJ, & that American archive (raw_data_url sources).
+Raw (unprocessed) data is in EGA, DDBJ, & [https://www.encodeproject.org](https://www.encodeproject.org).
