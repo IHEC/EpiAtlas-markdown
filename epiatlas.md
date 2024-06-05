@@ -11,5 +11,4 @@ Loosely inspired by the Roadmap's page: [https://egg2.wustl.edu/roadmap/web_port
 Other data sources:
 * Complete processed data through rsync/http/ftp URL: [ihec.sd4h.ca](ihec.sd4h.ca)
 * EpiRR (metadata): [https://www.ebi.ac.uk/epirr/](https://www.ebi.ac.uk/epirr/)
-
-Raw (unprocessed) data is in EGA, DDBJ, & [https://www.encodeproject.org](https://www.encodeproject.org).
+* Raw (unprocessed) data is in EGA, DDBJ, & [https://www.encodeproject.org](https://www.encodeproject.org).
