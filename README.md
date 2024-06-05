@@ -1,2 +1,2 @@
-# EpiAtlas-markdown
-Figures, resources and description of the EpiAtlas project for display on the IHEC Data Portal.
+# EpiATLAS-markdown
+Figures, resources and description of the EpiATLAS project for display on the IHEC Data Portal.
