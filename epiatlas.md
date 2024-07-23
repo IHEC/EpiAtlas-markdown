@@ -2,6 +2,8 @@ A brief summary of the EpiATLAS project, for display alongside the data on the I
 
 Loosely inspired by the Roadmap's page: [https://egg2.wustl.edu/roadmap/web_portal/](https://egg2.wustl.edu/roadmap/web_portal/), though intended to be more brief than comprehensive.
 
+Could also be comparable to McGill EMC's methods page, though modified for EpiATLAS: [https://epigenomesportal.ca/edcc/doc/analysis_methods.html](https://epigenomesportal.ca/edcc/doc/analysis_methods.html).
+
 * Description
 * Figures
 * Resources
