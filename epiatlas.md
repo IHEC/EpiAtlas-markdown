@@ -12,6 +12,6 @@ Could also be comparable to McGill EMC's methods page, though modified for EpiAT
 * Consortium website: [https://ihec-epigenomes.org/](https://ihec-epigenomes.org/)
 
 Other data sources:
-* Complete processed data available through rsync/http/ftp: [http://ihec.sd4h.ca](http://ihec.sd4h.ca/)
+* Complete processed data available through rsync/https/ftps: [https://ihec.sd4h.ca](https://ihec.sd4h.ca/)
 * Metadata also in EpiRR: [https://www.ebi.ac.uk/epirr/](https://www.ebi.ac.uk/epirr/)
 * Raw, unprocessed data is in EGA, DDBJ, & [https://www.encodeproject.org](https://www.encodeproject.org)
