@@ -1,15 +1,3 @@
-A brief summary of the EpiATLAS project, for display alongside the data on the IHEC Data Portal.
-
-Loosely inspired by the Roadmap page: [https://egg2.wustl.edu/roadmap/web_portal/](https://egg2.wustl.edu/roadmap/web_portal/), though intended to be more brief than comprehensive.
-
-Could also be comparable to McGill EMC's methods page, though modified for EpiATLAS: [https://epigenomesportal.ca/edcc/doc/analysis_methods.html](https://epigenomesportal.ca/edcc/doc/analysis_methods.html).
-
-### Additional Categories
-* Description
-* Figures
-* Resources
-* Articles
-
 ### File Descriptions
 Data Portal tracks represent a browsable subset of the complete EpiATLAS reprocessing.
 | Assay | Provenance | Source naming | Format |
@@ -22,14 +10,6 @@ Data Portal tracks represent a browsable subset of the complete EpiATLAS reproce
 | UCLA ChIP-Imputed | P-value | pval | bigWig |
 | ChromHMM | ChromHMM | ChromHMM | bigBed |
 
-### Data Processing Pipelines
-* ChIP-seq data was processed using the following container pipeline:
-  * [https://github.com/IHEC/integrative_analysis_chip/releases](https://github.com/IHEC/integrative_analysis_chip/releases)
-* WGBS data was processed using the following container pipeline:
-  * [https://github.com/heathsc/gemBS/releases/tag/v3.5.0](https://github.com/heathsc/gemBS/releases/tag/v3.5.0)
-* RNA-seq data was processed using the following container pipeline:
-  * [https://github.com/IHEC/grape-nf/releases](https://github.com/IHEC/grape-nf/releases)
-
 ### Further Data Sources
 * Complete reprocessed and post-processed data is available through [rsync/https/ftps](https://ihec.sd4h.ca/).
 * Metadata is also in [EpiRR](https://www.ebi.ac.uk/epirr/)
@@ -38,3 +18,22 @@ Data Portal tracks represent a browsable subset of the complete EpiATLAS reproce
 ### Additonal Resources
 * [IHEC (consortium website)](https://ihec-epigenomes.org/)
 * [BioRxiv channel](https://connect.biorxiv.org/relate/content/219)   
+
+### Data Processing Pipelines
+* ChIP-seq [container pipeline](https://github.com/IHEC/integrative_analysis_chip/releases).
+* WGBS [container pipeline](https://github.com/heathsc/gemBS/releases/tag/v3.5.0).
+* RNA-seq [container pipeline](https://github.com/IHEC/grape-nf/releases).
+
+### Models
+A brief summary of the EpiATLAS project, for display alongside the data on the IHEC Data Portal.
+
+Loosely inspired by the Roadmap page: [https://egg2.wustl.edu/roadmap/web_portal/](https://egg2.wustl.edu/roadmap/web_portal/), though intended to be more brief than comprehensive.
+
+Could also be comparable to McGill EMC's methods page, though modified for EpiATLAS: [https://epigenomesportal.ca/edcc/doc/analysis_methods.html](https://epigenomesportal.ca/edcc/doc/analysis_methods.html).
+
+### Additional Categories
+* Description
+* Figures
+* Resources
+* Articles
+
