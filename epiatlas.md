@@ -26,13 +26,13 @@ Data Portal tracks represent a browsable subset of the complete EpiATLAS reproce
 ### Data Sources
 * Comprehensive reprocessed and post-processed data is available via [rsync/https/ftps](https://ihec.sd4h.ca/).
 * Metadata is mirrored in [EpiRR](https://www.ebi.ac.uk/epirr/).
-* Raw, unprocessed data is archived at [EGA](https://ega-archive.org/), [DDBJ](https://www.ddbj.nig.ac.jp), and [ENCODE](https://www.encodeproject.org).
+* Raw, unprocessed data is archived at [EGA](https://ega-archive.org/), [DDBJ](https://www.ddbj.nig.ac.jp) and [ENCODE](https://www.encodeproject.org).
 
 ### Further Information
 * [IHEC (consortium website)](https://ihec-epigenomes.org/)
 * [BioRxiv channel](https://connect.biorxiv.org/relate/content/219)   
 
-### Data Processing Pipelines
-* [ChIP-seq container pipeline](https://github.com/IHEC/integrative_analysis_chip/releases).
-* [WGBS container pipeline](https://github.com/heathsc/gemBS/releases/tag/v3.5.0).
-* [RNA-seq container pipeline](https://github.com/IHEC/grape-nf/releases).
+### Data Processing Conatiner Pipelines
+* [ChIP-Seq](https://github.com/IHEC/integrative_analysis_chip/releases)
+* [WGBS](https://github.com/heathsc/gemBS/releases/tag/v3.5.0)
+* [RNA-Seq](https://github.com/IHEC/grape-nf/releases)
