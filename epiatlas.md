@@ -1,19 +1,17 @@
-## EpiATLAS uniform reprocessing
-
 A brief summary of the EpiATLAS project, for display alongside the data on the IHEC Data Portal.
 
 Loosely inspired by the Roadmap page: [https://egg2.wustl.edu/roadmap/web_portal/](https://egg2.wustl.edu/roadmap/web_portal/), though intended to be more brief than comprehensive.
 
 Could also be comparable to McGill EMC's methods page, though modified for EpiATLAS: [https://epigenomesportal.ca/edcc/doc/analysis_methods.html](https://epigenomesportal.ca/edcc/doc/analysis_methods.html).
 
-### Possible Categories
+### Additional Categories
 * Description
 * Figures
 * Resources
 * Articles
 
-### File Description
-Data portal tracks represent a more browsable subset of the complete EpiATLAS reprocessing initiative.
+### File Descriptions
+Data Portal tracks represent a browsable subset of the complete EpiATLAS reprocessing.
 | Assay | Provenance | Source naming | Format |
 | :--- | :--- | :--- | :--- |
 | ChIP-Seq | Signal p-value | pval.signal | bigWig |
@@ -33,10 +31,10 @@ Data portal tracks represent a more browsable subset of the complete EpiATLAS re
   * [https://github.com/IHEC/grape-nf/releases](https://github.com/IHEC/grape-nf/releases)
 
 ### Further Data Sources
-* Complete reprocessed and post-processed data is available through rsync/https/ftps: [https://ihec.sd4h.ca](https://ihec.sd4h.ca/)
-* Metadata is also in EpiRR: [https://www.ebi.ac.uk/epirr/](https://www.ebi.ac.uk/epirr/)
-* Raw, unprocessed data is available through EGA, DDBJ, & [https://www.encodeproject.org](https://www.encodeproject.org)
+* Complete reprocessed and post-processed data is available through [rsync/https/ftps](https://ihec.sd4h.ca/).
+* Metadata is also in [EpiRR](https://www.ebi.ac.uk/epirr/)
+* Raw, unprocessed data is available through [EGA](https://ega-archive.org/), [DDBJ](https://www.ddbj.nig.ac.jp), & [ENCODE](https://www.encodeproject.org)
 
 ### Additonal Resources
-* IHEC (consortium website): [https://ihec-epigenomes.org/](https://ihec-epigenomes.org/)
-* BioRxiv channel: [https://connect.biorxiv.org/relate/content/219](https://connect.biorxiv.org/relate/content/219)   
+* [IHEC (consortium website)](https://ihec-epigenomes.org/)
+* [BioRxiv channel](https://connect.biorxiv.org/relate/content/219)   
