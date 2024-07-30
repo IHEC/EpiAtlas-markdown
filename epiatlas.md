@@ -11,6 +11,14 @@ Could also be comparable to McGill EMC's methods page, though modified for EpiAT
 * BioRxiv channel: [https://connect.biorxiv.org/relate/content/219](https://connect.biorxiv.org/relate/content/219)   
 * Consortium website: [https://ihec-epigenomes.org/](https://ihec-epigenomes.org/)
 
+Data Processing Pipelines:
+* ChIP-seq data was processed using the following container pipeline:
+  * https://github.com/IHEC/integrative_analysis_chip/releases
+* WGBS data was processed using the following container pipeline:
+  * https://github.com/heathsc/gemBS/releases/tag/v3.5.0
+* RNA-seq data was processed using the following container pipeline:
+  * https://github.com/IHEC/grape-nf/releases
+
 Other data sources:
 * Complete processed data available through rsync/https/ftps: [https://ihec.sd4h.ca](https://ihec.sd4h.ca/)
 * Metadata also in EpiRR: [https://www.ebi.ac.uk/epirr/](https://www.ebi.ac.uk/epirr/)
