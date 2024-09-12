@@ -16,6 +16,7 @@ Data Portal tracks represent a browsable subset of the complete EpiATLAS reproce
 | Assay | Provenance | Source naming | Format |
 | :--- | :--- | :--- | :--- |
 | ChIP-Seq | Signal p-value | pval.signal | bigWig |
+| ChIP-Seq | Narrow peak | pval0.01.500K.bfilt.narrowPeak | bigBed |
 | ChIP-Seq Input | Raw control | ctl_raw | bigWig |
 | RNA-Seq stranded | Unique plus / minus raw | Unique.minusRaw / Unique.plusRaw | bigWig |
 | RNA-Seq unstranded | Unique raw | Unique.raw | bigWig |
